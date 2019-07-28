@@ -1677,36 +1677,41 @@ body {
     width: 100% !important;
   }
 }
-.cid-rxxa0U6ipR {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rxxa0U6ipR h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rxxa0U6ipR p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rxxa0U6ipR .card-box {
-  padding-top: 2rem;
-}
-.cid-rxxa0U6ipR .card-wrapper {
-  height: 100%;
-}
-.cid-rxx9IP169W {
+.cid-rxxrJuSoPo {
   padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rxx9IP169W .mbr-text {
-  color: #232323;
+.cid-rxxrJuSoPo .counter-container {
+  color: #767676;
 }
-.cid-rxx9IP169W .mbr-text p {
-  background: #ffffff;
+.cid-rxxrJuSoPo .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rxxrJuSoPo .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rxxrJuSoPo .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #34b922;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-rxxrJuSoPo .mbr-text {
+  color: #232323;
 }
 .cid-rxnxp63vay {
   padding-top: 0px;
@@ -2493,7 +2498,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rxwWSxCasp .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rxwWSxCasp .container-table {
   margin: 0 auto;
@@ -2635,7 +2640,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rxnvIuz5TZ .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rxnvIuz5TZ a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3717,7 +3722,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rxxoCP7P4r .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rxxoCP7P4r .container-table {
   margin: 0 auto;
@@ -3859,7 +3864,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rxxoCRCceM .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rxxoCRCceM a:not([href]):not([tabindex]) {
   color: #fff;
