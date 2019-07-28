@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "HydroFusion",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1827,7 +1827,7 @@
     },
     "indexmobile.html": {
       "settings": {
-        "title": "Home Mobile",
+        "title": "HydroFusion",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
